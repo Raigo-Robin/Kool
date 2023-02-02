@@ -149,7 +149,7 @@ namespace TEST___Raigo_Robin_Anni
             Console.WriteLine("Palun sisesta kolmnurga suurus ühikuna: ");
             int suurus = Convert.ToInt32(Console.ReadLine());
             
-            Console.WriteLine("Palun sisesta kõrgus: ");
+            Console.WriteLine("Palun sisesta kõrgus. Kõrgus peab olema suurem kui kolmnurga suurus: ");
             int kõrgus = Convert.ToInt32(Console.ReadLine());
 
             int j;
