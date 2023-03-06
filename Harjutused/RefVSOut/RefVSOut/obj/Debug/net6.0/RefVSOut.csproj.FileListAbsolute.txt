@@ -1,0 +1,15 @@
+C:\Users\raigo\Documents\GitHub\Kool\Harjutused\RefVSOut\RefVSOut\bin\Debug\net6.0\RefVSOut.exe
+C:\Users\raigo\Documents\GitHub\Kool\Harjutused\RefVSOut\RefVSOut\bin\Debug\net6.0\RefVSOut.deps.json
+C:\Users\raigo\Documents\GitHub\Kool\Harjutused\RefVSOut\RefVSOut\bin\Debug\net6.0\RefVSOut.runtimeconfig.json
+C:\Users\raigo\Documents\GitHub\Kool\Harjutused\RefVSOut\RefVSOut\bin\Debug\net6.0\RefVSOut.dll
+C:\Users\raigo\Documents\GitHub\Kool\Harjutused\RefVSOut\RefVSOut\bin\Debug\net6.0\RefVSOut.pdb
+C:\Users\raigo\Documents\GitHub\Kool\Harjutused\RefVSOut\RefVSOut\obj\Debug\net6.0\RefVSOut.csproj.AssemblyReference.cache
+C:\Users\raigo\Documents\GitHub\Kool\Harjutused\RefVSOut\RefVSOut\obj\Debug\net6.0\RefVSOut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raigo\Documents\GitHub\Kool\Harjutused\RefVSOut\RefVSOut\obj\Debug\net6.0\RefVSOut.AssemblyInfoInputs.cache
+C:\Users\raigo\Documents\GitHub\Kool\Harjutused\RefVSOut\RefVSOut\obj\Debug\net6.0\RefVSOut.AssemblyInfo.cs
+C:\Users\raigo\Documents\GitHub\Kool\Harjutused\RefVSOut\RefVSOut\obj\Debug\net6.0\RefVSOut.csproj.CoreCompileInputs.cache
+C:\Users\raigo\Documents\GitHub\Kool\Harjutused\RefVSOut\RefVSOut\obj\Debug\net6.0\RefVSOut.dll
+C:\Users\raigo\Documents\GitHub\Kool\Harjutused\RefVSOut\RefVSOut\obj\Debug\net6.0\refint\RefVSOut.dll
+C:\Users\raigo\Documents\GitHub\Kool\Harjutused\RefVSOut\RefVSOut\obj\Debug\net6.0\RefVSOut.pdb
+C:\Users\raigo\Documents\GitHub\Kool\Harjutused\RefVSOut\RefVSOut\obj\Debug\net6.0\RefVSOut.genruntimeconfig.cache
+C:\Users\raigo\Documents\GitHub\Kool\Harjutused\RefVSOut\RefVSOut\obj\Debug\net6.0\ref\RefVSOut.dll

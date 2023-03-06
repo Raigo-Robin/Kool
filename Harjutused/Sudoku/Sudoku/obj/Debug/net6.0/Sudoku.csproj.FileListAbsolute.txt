@@ -1,0 +1,5 @@
+C:\Users\raigo\Documents\GitHub\Kool\Harjutused\Sudoku\Sudoku\obj\Debug\net6.0\Sudoku.csproj.AssemblyReference.cache
+C:\Users\raigo\Documents\GitHub\Kool\Harjutused\Sudoku\Sudoku\obj\Debug\net6.0\Sudoku.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raigo\Documents\GitHub\Kool\Harjutused\Sudoku\Sudoku\obj\Debug\net6.0\Sudoku.AssemblyInfoInputs.cache
+C:\Users\raigo\Documents\GitHub\Kool\Harjutused\Sudoku\Sudoku\obj\Debug\net6.0\Sudoku.AssemblyInfo.cs
+C:\Users\raigo\Documents\GitHub\Kool\Harjutused\Sudoku\Sudoku\obj\Debug\net6.0\Sudoku.csproj.CoreCompileInputs.cache

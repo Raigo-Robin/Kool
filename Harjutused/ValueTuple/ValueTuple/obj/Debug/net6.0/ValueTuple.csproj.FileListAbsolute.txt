@@ -1,0 +1,15 @@
+C:\Users\raigo\Documents\GitHub\Kool\Harjutused\ValueTuple\ValueTuple\bin\Debug\net6.0\ValueTuple.exe
+C:\Users\raigo\Documents\GitHub\Kool\Harjutused\ValueTuple\ValueTuple\bin\Debug\net6.0\ValueTuple.deps.json
+C:\Users\raigo\Documents\GitHub\Kool\Harjutused\ValueTuple\ValueTuple\bin\Debug\net6.0\ValueTuple.runtimeconfig.json
+C:\Users\raigo\Documents\GitHub\Kool\Harjutused\ValueTuple\ValueTuple\bin\Debug\net6.0\ValueTuple.dll
+C:\Users\raigo\Documents\GitHub\Kool\Harjutused\ValueTuple\ValueTuple\bin\Debug\net6.0\ValueTuple.pdb
+C:\Users\raigo\Documents\GitHub\Kool\Harjutused\ValueTuple\ValueTuple\obj\Debug\net6.0\ValueTuple.csproj.AssemblyReference.cache
+C:\Users\raigo\Documents\GitHub\Kool\Harjutused\ValueTuple\ValueTuple\obj\Debug\net6.0\ValueTuple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raigo\Documents\GitHub\Kool\Harjutused\ValueTuple\ValueTuple\obj\Debug\net6.0\ValueTuple.AssemblyInfoInputs.cache
+C:\Users\raigo\Documents\GitHub\Kool\Harjutused\ValueTuple\ValueTuple\obj\Debug\net6.0\ValueTuple.AssemblyInfo.cs
+C:\Users\raigo\Documents\GitHub\Kool\Harjutused\ValueTuple\ValueTuple\obj\Debug\net6.0\ValueTuple.csproj.CoreCompileInputs.cache
+C:\Users\raigo\Documents\GitHub\Kool\Harjutused\ValueTuple\ValueTuple\obj\Debug\net6.0\ValueTuple.dll
+C:\Users\raigo\Documents\GitHub\Kool\Harjutused\ValueTuple\ValueTuple\obj\Debug\net6.0\refint\ValueTuple.dll
+C:\Users\raigo\Documents\GitHub\Kool\Harjutused\ValueTuple\ValueTuple\obj\Debug\net6.0\ValueTuple.pdb
+C:\Users\raigo\Documents\GitHub\Kool\Harjutused\ValueTuple\ValueTuple\obj\Debug\net6.0\ValueTuple.genruntimeconfig.cache
+C:\Users\raigo\Documents\GitHub\Kool\Harjutused\ValueTuple\ValueTuple\obj\Debug\net6.0\ref\ValueTuple.dll

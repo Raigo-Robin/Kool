@@ -1,0 +1,15 @@
+C:\Users\raigo\Documents\GitHub\Kool\Harjutused\Dictionary1\Dictionary1\bin\Debug\net6.0\Dictionary1.exe
+C:\Users\raigo\Documents\GitHub\Kool\Harjutused\Dictionary1\Dictionary1\bin\Debug\net6.0\Dictionary1.deps.json
+C:\Users\raigo\Documents\GitHub\Kool\Harjutused\Dictionary1\Dictionary1\bin\Debug\net6.0\Dictionary1.runtimeconfig.json
+C:\Users\raigo\Documents\GitHub\Kool\Harjutused\Dictionary1\Dictionary1\bin\Debug\net6.0\Dictionary1.dll
+C:\Users\raigo\Documents\GitHub\Kool\Harjutused\Dictionary1\Dictionary1\bin\Debug\net6.0\Dictionary1.pdb
+C:\Users\raigo\Documents\GitHub\Kool\Harjutused\Dictionary1\Dictionary1\obj\Debug\net6.0\Dictionary1.csproj.AssemblyReference.cache
+C:\Users\raigo\Documents\GitHub\Kool\Harjutused\Dictionary1\Dictionary1\obj\Debug\net6.0\Dictionary1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raigo\Documents\GitHub\Kool\Harjutused\Dictionary1\Dictionary1\obj\Debug\net6.0\Dictionary1.AssemblyInfoInputs.cache
+C:\Users\raigo\Documents\GitHub\Kool\Harjutused\Dictionary1\Dictionary1\obj\Debug\net6.0\Dictionary1.AssemblyInfo.cs
+C:\Users\raigo\Documents\GitHub\Kool\Harjutused\Dictionary1\Dictionary1\obj\Debug\net6.0\Dictionary1.csproj.CoreCompileInputs.cache
+C:\Users\raigo\Documents\GitHub\Kool\Harjutused\Dictionary1\Dictionary1\obj\Debug\net6.0\Dictionary1.dll
+C:\Users\raigo\Documents\GitHub\Kool\Harjutused\Dictionary1\Dictionary1\obj\Debug\net6.0\refint\Dictionary1.dll
+C:\Users\raigo\Documents\GitHub\Kool\Harjutused\Dictionary1\Dictionary1\obj\Debug\net6.0\Dictionary1.pdb
+C:\Users\raigo\Documents\GitHub\Kool\Harjutused\Dictionary1\Dictionary1\obj\Debug\net6.0\Dictionary1.genruntimeconfig.cache
+C:\Users\raigo\Documents\GitHub\Kool\Harjutused\Dictionary1\Dictionary1\obj\Debug\net6.0\ref\Dictionary1.dll

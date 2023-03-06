@@ -1,0 +1,15 @@
+C:\Users\raigo\Documents\GitHub\Kool\Harjutused\Tulemus\Tulemus\bin\Debug\net6.0\Tulemus.exe
+C:\Users\raigo\Documents\GitHub\Kool\Harjutused\Tulemus\Tulemus\bin\Debug\net6.0\Tulemus.deps.json
+C:\Users\raigo\Documents\GitHub\Kool\Harjutused\Tulemus\Tulemus\bin\Debug\net6.0\Tulemus.runtimeconfig.json
+C:\Users\raigo\Documents\GitHub\Kool\Harjutused\Tulemus\Tulemus\bin\Debug\net6.0\Tulemus.dll
+C:\Users\raigo\Documents\GitHub\Kool\Harjutused\Tulemus\Tulemus\bin\Debug\net6.0\Tulemus.pdb
+C:\Users\raigo\Documents\GitHub\Kool\Harjutused\Tulemus\Tulemus\obj\Debug\net6.0\Tulemus.csproj.AssemblyReference.cache
+C:\Users\raigo\Documents\GitHub\Kool\Harjutused\Tulemus\Tulemus\obj\Debug\net6.0\Tulemus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raigo\Documents\GitHub\Kool\Harjutused\Tulemus\Tulemus\obj\Debug\net6.0\Tulemus.AssemblyInfoInputs.cache
+C:\Users\raigo\Documents\GitHub\Kool\Harjutused\Tulemus\Tulemus\obj\Debug\net6.0\Tulemus.AssemblyInfo.cs
+C:\Users\raigo\Documents\GitHub\Kool\Harjutused\Tulemus\Tulemus\obj\Debug\net6.0\Tulemus.csproj.CoreCompileInputs.cache
+C:\Users\raigo\Documents\GitHub\Kool\Harjutused\Tulemus\Tulemus\obj\Debug\net6.0\Tulemus.dll
+C:\Users\raigo\Documents\GitHub\Kool\Harjutused\Tulemus\Tulemus\obj\Debug\net6.0\refint\Tulemus.dll
+C:\Users\raigo\Documents\GitHub\Kool\Harjutused\Tulemus\Tulemus\obj\Debug\net6.0\Tulemus.pdb
+C:\Users\raigo\Documents\GitHub\Kool\Harjutused\Tulemus\Tulemus\obj\Debug\net6.0\Tulemus.genruntimeconfig.cache
+C:\Users\raigo\Documents\GitHub\Kool\Harjutused\Tulemus\Tulemus\obj\Debug\net6.0\ref\Tulemus.dll

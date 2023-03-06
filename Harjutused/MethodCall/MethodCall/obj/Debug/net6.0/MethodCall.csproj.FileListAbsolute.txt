@@ -1,0 +1,15 @@
+C:\Users\raigo\Documents\GitHub\Kool\Harjutused\MethodCall\MethodCall\bin\Debug\net6.0\MethodCall.exe
+C:\Users\raigo\Documents\GitHub\Kool\Harjutused\MethodCall\MethodCall\bin\Debug\net6.0\MethodCall.deps.json
+C:\Users\raigo\Documents\GitHub\Kool\Harjutused\MethodCall\MethodCall\bin\Debug\net6.0\MethodCall.runtimeconfig.json
+C:\Users\raigo\Documents\GitHub\Kool\Harjutused\MethodCall\MethodCall\bin\Debug\net6.0\MethodCall.dll
+C:\Users\raigo\Documents\GitHub\Kool\Harjutused\MethodCall\MethodCall\bin\Debug\net6.0\MethodCall.pdb
+C:\Users\raigo\Documents\GitHub\Kool\Harjutused\MethodCall\MethodCall\obj\Debug\net6.0\MethodCall.csproj.AssemblyReference.cache
+C:\Users\raigo\Documents\GitHub\Kool\Harjutused\MethodCall\MethodCall\obj\Debug\net6.0\MethodCall.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raigo\Documents\GitHub\Kool\Harjutused\MethodCall\MethodCall\obj\Debug\net6.0\MethodCall.AssemblyInfoInputs.cache
+C:\Users\raigo\Documents\GitHub\Kool\Harjutused\MethodCall\MethodCall\obj\Debug\net6.0\MethodCall.AssemblyInfo.cs
+C:\Users\raigo\Documents\GitHub\Kool\Harjutused\MethodCall\MethodCall\obj\Debug\net6.0\MethodCall.csproj.CoreCompileInputs.cache
+C:\Users\raigo\Documents\GitHub\Kool\Harjutused\MethodCall\MethodCall\obj\Debug\net6.0\MethodCall.dll
+C:\Users\raigo\Documents\GitHub\Kool\Harjutused\MethodCall\MethodCall\obj\Debug\net6.0\refint\MethodCall.dll
+C:\Users\raigo\Documents\GitHub\Kool\Harjutused\MethodCall\MethodCall\obj\Debug\net6.0\MethodCall.pdb
+C:\Users\raigo\Documents\GitHub\Kool\Harjutused\MethodCall\MethodCall\obj\Debug\net6.0\MethodCall.genruntimeconfig.cache
+C:\Users\raigo\Documents\GitHub\Kool\Harjutused\MethodCall\MethodCall\obj\Debug\net6.0\ref\MethodCall.dll

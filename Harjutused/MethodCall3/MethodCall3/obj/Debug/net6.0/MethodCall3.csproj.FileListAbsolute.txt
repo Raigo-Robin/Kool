@@ -1,0 +1,15 @@
+C:\Users\raigo\Documents\GitHub\Kool\Harjutused\MethodCall3\MethodCall3\bin\Debug\net6.0\MethodCall3.exe
+C:\Users\raigo\Documents\GitHub\Kool\Harjutused\MethodCall3\MethodCall3\bin\Debug\net6.0\MethodCall3.deps.json
+C:\Users\raigo\Documents\GitHub\Kool\Harjutused\MethodCall3\MethodCall3\bin\Debug\net6.0\MethodCall3.runtimeconfig.json
+C:\Users\raigo\Documents\GitHub\Kool\Harjutused\MethodCall3\MethodCall3\bin\Debug\net6.0\MethodCall3.dll
+C:\Users\raigo\Documents\GitHub\Kool\Harjutused\MethodCall3\MethodCall3\bin\Debug\net6.0\MethodCall3.pdb
+C:\Users\raigo\Documents\GitHub\Kool\Harjutused\MethodCall3\MethodCall3\obj\Debug\net6.0\MethodCall3.csproj.AssemblyReference.cache
+C:\Users\raigo\Documents\GitHub\Kool\Harjutused\MethodCall3\MethodCall3\obj\Debug\net6.0\MethodCall3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raigo\Documents\GitHub\Kool\Harjutused\MethodCall3\MethodCall3\obj\Debug\net6.0\MethodCall3.AssemblyInfoInputs.cache
+C:\Users\raigo\Documents\GitHub\Kool\Harjutused\MethodCall3\MethodCall3\obj\Debug\net6.0\MethodCall3.AssemblyInfo.cs
+C:\Users\raigo\Documents\GitHub\Kool\Harjutused\MethodCall3\MethodCall3\obj\Debug\net6.0\MethodCall3.csproj.CoreCompileInputs.cache
+C:\Users\raigo\Documents\GitHub\Kool\Harjutused\MethodCall3\MethodCall3\obj\Debug\net6.0\MethodCall3.dll
+C:\Users\raigo\Documents\GitHub\Kool\Harjutused\MethodCall3\MethodCall3\obj\Debug\net6.0\refint\MethodCall3.dll
+C:\Users\raigo\Documents\GitHub\Kool\Harjutused\MethodCall3\MethodCall3\obj\Debug\net6.0\MethodCall3.pdb
+C:\Users\raigo\Documents\GitHub\Kool\Harjutused\MethodCall3\MethodCall3\obj\Debug\net6.0\MethodCall3.genruntimeconfig.cache
+C:\Users\raigo\Documents\GitHub\Kool\Harjutused\MethodCall3\MethodCall3\obj\Debug\net6.0\ref\MethodCall3.dll
